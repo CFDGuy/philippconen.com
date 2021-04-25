@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Philipp-Conen.de</title>
+    <link>https://philippconen.com/</link>
+    <description>Recent content on Philipp-Conen.de</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-default</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sat, 24 Apr 2021 23:20:31 +0200</lastBuildDate><atom:link href="https://philippconen.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Information and projects</title>
+      <link>https://philippconen.com/computational-fluid-dynamics/info-cfd/</link>
+      <pubDate>Sat, 24 Apr 2021 23:20:31 +0200</pubDate>
+      
+      <guid>https://philippconen.com/computational-fluid-dynamics/info-cfd/</guid>
+      <description>On this channel, you can find posts about my projects regarding Computational-Fluid-Dynamics (CFD). I prefer to perform in OpenFOAM (OF) because it&amp;rsquo;s powerful and open source. I am also familiar with ANSYS Fluent and some basic Matlab-Solver.
+&amp;ldquo;In my eyes Fluid-Dynamics especially CFD is the perfect momentum where physics and engineering come together. The flow of fluids is a matter which is fascinating me most.&amp;rdquo;
+My future projects are:
+ Analyse the airflow in a gym according to the covid-19 pandemic Analyse the impact of an increasing amount of cores during parallel simulation Extend the analyzes on the investigation of the compressible flow of real gases around a circular cylinder with Novec 649 by considering different Mach numbers Push forward troubleshooting and teaching OpenFOAM in form of a small book  ~</description>
+    </item>
+    
+    <item>
+      <title>Introduction</title>
+      <link>https://philippconen.com/introduction/</link>
+      <pubDate>Sat, 24 Apr 2021 22:58:36 +0200</pubDate>
+      
+      <guid>https://philippconen.com/introduction/</guid>
+      <description>I am glad to welcome you on my website and hope you can orient as fast as possible. As a good college of mine showed me the hugh advantage of open source and mind sharing I also would like to share information and ideas to make the world better just a little. On this site you can find my projects in many different areas. These areas contribute to:
+ Computational-Fluid-Dynamics (CFD), Hardware-projects and Software-projects  As I am nativ german, this side is not only performing in englisch.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://philippconen.com/contact/</link>
+      <pubDate>Sat, 24 Apr 2021 22:53:24 +0200</pubDate>
+      
+      <guid>https://philippconen.com/contact/</guid>
+      <description>Contact me via</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://philippconen.com/about-me/</link>
+      <pubDate>Fri, 24 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://philippconen.com/about-me/</guid>
+      <description>Again a warm welcome to my website! My name is Philipp and I am a graduated bachelor mechanical engineer and a master computational engineering student. After secondary school, I started working as a precision mechanic with an apprenticeship at Münster University of Applied Sciences. Getting expertise in four years of crafting test benches, mechanical products, and maintaining machines I decided to go on learning. So I started signing in to get the high school diploma and ended up as a student at Münster University of Applied Sciences.</description>
+    </item>
+    
+    <item>
+      <title>The &#34;figure&#34; Shortcode</title>
+      <link>https://philippconen.com/posts/the-figure-shortcode/</link>
+      <pubDate>Mon, 24 Dec 2018 12:29:41 +0800</pubDate>
+      
+      <guid>https://philippconen.com/posts/the-figure-shortcode/</guid>
+      <description>Hugo has figure shortcode built in, so you can easily add figcaptions or hyperlink rel attributes to images. Documentations can be found here:
+https://gohugo.io/content-management/shortcodes/#figure
+This theme has 3 CSS classes made for figure elements:
+ big: images will break the width limit of main content area. left: images will float to the left. right: images will float to the right.  If a figure has no class set, the image will behave just like a normal markdown image: !</description>
+    </item>
+    
+    <item>
+      <title>Post With Featured Image</title>
+      <link>https://philippconen.com/posts/post-with-featured-image/</link>
+      <pubDate>Mon, 01 Oct 2018 16:15:09 +0800</pubDate>
+      
+      <guid>https://philippconen.com/posts/post-with-featured-image/</guid>
+      <description>Just define the image URL in the content’s front matter, the featured image will be displayed as the background.
+For example:
+---images:- https://picsum.photos/1024/768/?random---This is an array, you can set multiple urls, only the first url will be used. These images is also used in Twitter Cards and the Open Graph metadata.</description>
+    </item>
+    
+    <item>
+      <title>Typography</title>
+      <link>https://philippconen.com/posts/typography/</link>
+      <pubDate>Sat, 29 Sep 2018 11:36:33 +0800</pubDate>
+      
+      <guid>https://philippconen.com/posts/typography/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+ An apple is a sweet, edible fruit produced by an apple tree (Malus pumila).</description>
+    </item>
+    
+    <item>
+      <title>Creating a New Theme</title>
+      <link>https://philippconen.com/posts/creating-a-new-theme/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://philippconen.com/posts/creating-a-new-theme/</guid>
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
+We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+    </item>
+    
+    <item>
+      <title>(Hu)go Template Primer</title>
+      <link>https://philippconen.com/posts/goisforlovers/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://philippconen.com/posts/goisforlovers/</guid>
+      <description>Hugo uses the excellent Go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in Go templates.
+This document is a brief primer on using Go templates.</description>
+    </item>
+    
+    <item>
+      <title>Getting Started with Hugo</title>
+      <link>https://philippconen.com/posts/hugoisforlovers/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://philippconen.com/posts/hugoisforlovers/</guid>
+      <description>Step 1. Install Hugo Go to Hugo releases and download the appropriate version for your OS and architecture.
+Save it somewhere specific as we will be using it in the next step.
+More complete instructions are available at Install Hugo
+Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
+Follow the following steps:
+ Clone the Hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
+    </item>
+    
+  </channel>
+</rss>

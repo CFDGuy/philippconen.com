@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computational-fluid-dynamics on Philipp-Conen.de</title>
+    <link>https://philippconen.com/computational-fluid-dynamics/</link>
+    <description>Recent content in Computational-fluid-dynamics on Philipp-Conen.de</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-default</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sat, 24 Apr 2021 23:20:31 +0200</lastBuildDate><atom:link href="https://philippconen.com/computational-fluid-dynamics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Information and projects</title>
+      <link>https://philippconen.com/computational-fluid-dynamics/info-cfd/</link>
+      <pubDate>Sat, 24 Apr 2021 23:20:31 +0200</pubDate>
+      
+      <guid>https://philippconen.com/computational-fluid-dynamics/info-cfd/</guid>
+      <description>On this channel, you can find posts about my projects regarding Computational-Fluid-Dynamics (CFD). I prefer to perform in OpenFOAM (OF) because it&amp;rsquo;s powerful and open source. I am also familiar with ANSYS Fluent and some basic Matlab-Solver.
+&amp;ldquo;In my eyes Fluid-Dynamics especially CFD is the perfect momentum where physics and engineering come together. The flow of fluids is a matter which is fascinating me most.&amp;rdquo;
+My future projects are:
+ Analyse the airflow in a gym according to the covid-19 pandemic Analyse the impact of an increasing amount of cores during parallel simulation Extend the analyzes on the investigation of the compressible flow of real gases around a circular cylinder with Novec 649 by considering different Mach numbers Push forward troubleshooting and teaching OpenFOAM in form of a small book  ~</description>
+    </item>
+    
+  </channel>
+</rss>
