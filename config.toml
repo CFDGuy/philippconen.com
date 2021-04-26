@@ -1,7 +1,7 @@
-baseURL = "https://philippconen.com"
-languageCode = "de-default"
-defaultContentLanguage = "de"
-title = "Philipp-Conen.de"
+baseURL = "192.168.2.117"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+title = "Philipp-Conen.com"
 theme = "hermit"
 # enableGitInfo = true
 pygmentsCodefences  = true
